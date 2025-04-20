@@ -1,0 +1,13 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  
+
+}
+.navBar ul > li {
+  display: flex;
+  float:left;
+  list-style-type: none;
+  margin: 15px;
+}
+
